@@ -12,3 +12,10 @@
 /Users/anastasiazagorodnyuk/Desktop/uni/oop/lab1/obj/Debug/net7.0/lab1.pdb
 /Users/anastasiazagorodnyuk/Desktop/uni/oop/lab1/obj/Debug/net7.0/lab1.genruntimeconfig.cache
 /Users/anastasiazagorodnyuk/Desktop/uni/oop/lab1/obj/Debug/net7.0/ref/lab1.dll
+/Users/anastasiazagorodnyuk/Desktop/uni/oop/oop_labs/obj/Debug/net7.0/lab1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiazagorodnyuk/Desktop/uni/oop/oop_labs/obj/Debug/net7.0/lab1.AssemblyInfoInputs.cache
+/Users/anastasiazagorodnyuk/Desktop/uni/oop/oop_labs/obj/Debug/net7.0/lab1.AssemblyInfo.cs
+/Users/anastasiazagorodnyuk/Desktop/uni/oop/oop_labs/obj/Debug/net7.0/lab1.csproj.CoreCompileInputs.cache
+/Users/anastasiazagorodnyuk/Desktop/uni/oop/oop_labs/obj/Debug/net7.0/lab1.dll
+/Users/anastasiazagorodnyuk/Desktop/uni/oop/oop_labs/obj/Debug/net7.0/refint/lab1.dll
+/Users/anastasiazagorodnyuk/Desktop/uni/oop/oop_labs/obj/Debug/net7.0/lab1.pdb

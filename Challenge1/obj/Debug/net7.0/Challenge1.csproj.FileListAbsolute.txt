@@ -1,0 +1,14 @@
+/Users/anastasiazagorodnyuk/Desktop/uni/oop/oop_labs/Challenge1/bin/Debug/net7.0/Challenge1
+/Users/anastasiazagorodnyuk/Desktop/uni/oop/oop_labs/Challenge1/bin/Debug/net7.0/Challenge1.deps.json
+/Users/anastasiazagorodnyuk/Desktop/uni/oop/oop_labs/Challenge1/bin/Debug/net7.0/Challenge1.runtimeconfig.json
+/Users/anastasiazagorodnyuk/Desktop/uni/oop/oop_labs/Challenge1/bin/Debug/net7.0/Challenge1.dll
+/Users/anastasiazagorodnyuk/Desktop/uni/oop/oop_labs/Challenge1/bin/Debug/net7.0/Challenge1.pdb
+/Users/anastasiazagorodnyuk/Desktop/uni/oop/oop_labs/Challenge1/obj/Debug/net7.0/Challenge1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiazagorodnyuk/Desktop/uni/oop/oop_labs/Challenge1/obj/Debug/net7.0/Challenge1.AssemblyInfoInputs.cache
+/Users/anastasiazagorodnyuk/Desktop/uni/oop/oop_labs/Challenge1/obj/Debug/net7.0/Challenge1.AssemblyInfo.cs
+/Users/anastasiazagorodnyuk/Desktop/uni/oop/oop_labs/Challenge1/obj/Debug/net7.0/Challenge1.csproj.CoreCompileInputs.cache
+/Users/anastasiazagorodnyuk/Desktop/uni/oop/oop_labs/Challenge1/obj/Debug/net7.0/Challenge1.dll
+/Users/anastasiazagorodnyuk/Desktop/uni/oop/oop_labs/Challenge1/obj/Debug/net7.0/refint/Challenge1.dll
+/Users/anastasiazagorodnyuk/Desktop/uni/oop/oop_labs/Challenge1/obj/Debug/net7.0/Challenge1.pdb
+/Users/anastasiazagorodnyuk/Desktop/uni/oop/oop_labs/Challenge1/obj/Debug/net7.0/Challenge1.genruntimeconfig.cache
+/Users/anastasiazagorodnyuk/Desktop/uni/oop/oop_labs/Challenge1/obj/Debug/net7.0/ref/Challenge1.dll
