@@ -1,0 +1,14 @@
+/Users/anastasiazagorodnyuk/Desktop/uni/oop/oop_labs/Lab2/obj/Debug/net7.0/Lab2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiazagorodnyuk/Desktop/uni/oop/oop_labs/Lab2/obj/Debug/net7.0/Lab2.AssemblyInfoInputs.cache
+/Users/anastasiazagorodnyuk/Desktop/uni/oop/oop_labs/Lab2/obj/Debug/net7.0/Lab2.AssemblyInfo.cs
+/Users/anastasiazagorodnyuk/Desktop/uni/oop/oop_labs/Lab2/obj/Debug/net7.0/Lab2.csproj.CoreCompileInputs.cache
+/Users/anastasiazagorodnyuk/Desktop/uni/oop/oop_labs/Lab2/bin/Debug/net7.0/Lab2
+/Users/anastasiazagorodnyuk/Desktop/uni/oop/oop_labs/Lab2/bin/Debug/net7.0/Lab2.deps.json
+/Users/anastasiazagorodnyuk/Desktop/uni/oop/oop_labs/Lab2/bin/Debug/net7.0/Lab2.runtimeconfig.json
+/Users/anastasiazagorodnyuk/Desktop/uni/oop/oop_labs/Lab2/bin/Debug/net7.0/Lab2.dll
+/Users/anastasiazagorodnyuk/Desktop/uni/oop/oop_labs/Lab2/bin/Debug/net7.0/Lab2.pdb
+/Users/anastasiazagorodnyuk/Desktop/uni/oop/oop_labs/Lab2/obj/Debug/net7.0/Lab2.dll
+/Users/anastasiazagorodnyuk/Desktop/uni/oop/oop_labs/Lab2/obj/Debug/net7.0/refint/Lab2.dll
+/Users/anastasiazagorodnyuk/Desktop/uni/oop/oop_labs/Lab2/obj/Debug/net7.0/Lab2.pdb
+/Users/anastasiazagorodnyuk/Desktop/uni/oop/oop_labs/Lab2/obj/Debug/net7.0/Lab2.genruntimeconfig.cache
+/Users/anastasiazagorodnyuk/Desktop/uni/oop/oop_labs/Lab2/obj/Debug/net7.0/ref/Lab2.dll
