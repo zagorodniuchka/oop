@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/anastasiazagorodnyuk/Desktop/uni/oop/oop_labs/lab1.csproj": {}
+    "/Users/anastasiazagorodnyuk/Desktop/uni/oop/oop_labs/Lab3/Lab3.csproj": {}
   },
   "projects": {
-    "/Users/anastasiazagorodnyuk/Desktop/uni/oop/oop_labs/lab1.csproj": {
+    "/Users/anastasiazagorodnyuk/Desktop/uni/oop/oop_labs/Lab3/Lab3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/anastasiazagorodnyuk/Desktop/uni/oop/oop_labs/lab1.csproj",
-        "projectName": "lab1",
-        "projectPath": "/Users/anastasiazagorodnyuk/Desktop/uni/oop/oop_labs/lab1.csproj",
+        "projectUniqueName": "/Users/anastasiazagorodnyuk/Desktop/uni/oop/oop_labs/Lab3/Lab3.csproj",
+        "projectName": "Lab3",
+        "projectPath": "/Users/anastasiazagorodnyuk/Desktop/uni/oop/oop_labs/Lab3/Lab3.csproj",
         "packagesPath": "/Users/anastasiazagorodnyuk/.nuget/packages/",
-        "outputPath": "/Users/anastasiazagorodnyuk/Desktop/uni/oop/oop_labs/obj/",
+        "outputPath": "/Users/anastasiazagorodnyuk/Desktop/uni/oop/oop_labs/Lab3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/anastasiazagorodnyuk/.nuget/NuGet/NuGet.Config"
