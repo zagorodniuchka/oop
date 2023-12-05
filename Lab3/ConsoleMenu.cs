@@ -84,6 +84,7 @@ namespace Lab2
 						statusAction.PrintStatus(snapshotTime, previousFiles);
 						break;
 					case "q":
+						Environment.Exit(0);
 						break;
 					default:
 						Console.WriteLine("Wrong operation!");
